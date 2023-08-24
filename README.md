@@ -1,8 +1,8 @@
 # Fine-Grained-Butterflies-and-Reef-Fish-Image-Classification
 This repository is for FGBR introduced in the following paper:  
-> **Towards Low-Cost Classification for Novel Fine-Grained Datasets**  
-> [Abbas Anwar], [Hafeez Anwar], [Saeed Anwar](https://saeed-anwar.github.io/) 
-> Electronics, 2022 [Impact Factor: 2.9]
+> **Towards Low-Cost Classification for Novel Fine-Grained Datasets** <br> 
+> [Abbas Anwar], [Hafeez Anwar], [Saeed Anwar](https://saeed-anwar.github.io/) <br> 
+> Electronics, 2022 [Impact Factor: 2.9] <br>
 **Paper Link:** [[official link](https://www.mdpi.com/2079-9292/11/17/2701)]
 >
  
